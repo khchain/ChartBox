@@ -1,7 +1,6 @@
 import React from 'react';
 import {Card} from "components";
 import classNames from "classnames";
-import Image from "next/image";
 
 function CoinDetails({data}) {
   const coinInfo = [
